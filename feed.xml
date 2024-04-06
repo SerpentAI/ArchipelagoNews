@@ -10,7 +10,48 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-04-05T00:00:00-05:00</updated>
+    <updated>2024-04-06T00:00:00-05:00</updated>
+
+    <entry>
+        <title>April 5th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240405" rel="alternate" type="text/html" title="April 5th, 2024"/>
+        <updated>2024-04-06T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240405</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for April 5th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
+                    <li><strong>APWorld Update</strong> Mega Man X3</li>
+                    <li><strong>APWorld Update</strong> Paper Mario 64</li>
+                    <li><strong>APWorld Update</strong> Super Junkoid (Super Metroid Hack)</li>
+                    <li><strong>APWorld Update</strong> Universal Tracker</li>
+                    <li><strong>APWorld Update</strong> Yacht Dice (Yahtzee)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> An Untitled Story</li>
+                    <li><strong>Game Mod Update</strong> Yacht Dice (Yahtzee)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Mario Kart Wii</li>
+                    <li><strong>Manual APWorld Update</strong> Super Mario 3D World</li>
+                    <li><strong>Manual APWorld Update</strong> Zelda CD-I</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Mario Kart DS</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> A Short Hike</li>
+                    <li><strong>Tracker Update</strong> Super Junkoid (Super Metroid Hack)</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>April 4th, 2024</title>
@@ -1146,42 +1187,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> Lingo</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-    
-    <entry>
-        <title>March 6th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240306" rel="alternate" type="text/html" title="March 6th, 2024"/>
-        <updated>2024-03-07T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240306</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for March 6th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Mario and Luigi Superstar Saga</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Beta APWorld Update</strong> Pokemon Emerald</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> ULTRAKILL</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Pokemon Showdown</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New APWorld</strong> Super Mario Sunshine</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Tracker</strong> Castlevania: Symphony of the Night</li>
                 </ul>
             ]]>
         </content>
