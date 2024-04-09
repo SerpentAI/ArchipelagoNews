@@ -10,7 +10,49 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-04-08T00:00:00-05:00</updated>
+    <updated>2024-04-09T00:00:00-05:00</updated>
+
+    <entry>
+        <title>April 8th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240408" rel="alternate" type="text/html" title="April 8th, 2024"/>
+        <updated>2024-04-09T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240408</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for April 8th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Scooby-Doo! Night of 100 Frights</li>
+                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
+                    <li><strong>APWorld Update</strong> Yu-Gi-Oh! Ultimate Masters: WCT 2006</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Bejeweled 3</li>
+                    <li><strong>Manual APWorld Update</strong> CastleMinerZ</li>
+                    <li><strong>Manual APWorld Update</strong> Halo: Reach</li>
+                    <li><strong>Manual APWorld Update</strong> Pokemon HeartGold & SoulSilver (Fishing)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New APWorld</strong> Tyrian</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Beta APWorld</strong> Terraria</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Beta Game Mod</strong> Terraria</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Myst</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
+
 
     <entry>
         <title>April 7th, 2024</title>
@@ -1116,41 +1158,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> Oracle of Seasons</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>March 9th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240309" rel="alternate" type="text/html" title="March 9th, 2024"/>
-        <updated>2024-03-10T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240309</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for March 9th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Castlevania: Symphony of the Night</li>
-                    <li><strong>APWorld Update</strong> Oracle of Seasons</li>
-                    <li><strong>APWorld Update</strong> Reventure</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Reventure</li>
-                    <li><strong>Game Mod Update</strong> Vacation Simulator</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Will You Snail</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Toontown Corporate Clash (Fishing)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Yu-Gi-Oh! Forbidden Memories</li>
                 </ul>
             ]]>
         </content>
