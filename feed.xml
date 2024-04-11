@@ -10,7 +10,39 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-04-10T00:00:00-05:00</updated>
+    <updated>2024-04-11T00:00:00-05:00</updated>
+
+    <entry>
+        <title>April 10th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240410" rel="alternate" type="text/html" title="April 10th, 2024"/>
+        <updated>2024-04-11T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240410</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for April 10th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
+                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New APWorld</strong> Castlevania: Circle of the Moon</li>
+                    <li><strong>New APWorld</strong> Don't Starve Together</li>
+                </ul>
+                
+                <ul>
+                    <li><strong>New Beta APWorld</strong> ArchipIDLE</li>
+                    <li><strong>New Beta APWorld</strong> osu!</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Kingdom Hearts 2</li>
+                    <li><strong>Tracker Update</strong> Yu-Gi-Oh! Forbidden Memories</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>April 9th, 2024</title>
@@ -1109,40 +1141,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> The Wind Waker</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>March 11th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240311" rel="alternate" type="text/html" title="March 11th, 2024"/>
-        <updated>2024-03-12T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240311</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for March 11th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
-                    <li><strong>APWorld Update</strong> Rabi-Ribi</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> DLC Quest</li>
-                    <li><strong>Game Mod Update</strong> Rabi-Ribi</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Update Merged</strong> The Messenger: <em>Content Update</em></li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Halo: Reach</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Beta APWorld</strong> DLC Quest</li>
                 </ul>
             ]]>
         </content>
