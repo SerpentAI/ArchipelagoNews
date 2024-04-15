@@ -10,7 +10,45 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-04-14T00:00:00-05:00</updated>
+    <updated>2024-04-15T00:00:00-05:00</updated>
+
+    <entry>
+        <title>April 14th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240414" rel="alternate" type="text/html" title="April 14th, 2024"/>
+        <updated>2024-04-15T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240414</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for April 14th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>AP Release Candidate</strong> 0.4.6 RC1</li>
+                </ul>
+
+                <ul>
+                    <li><strong>APWorld Update</strong> An Untitled Story</li>
+                    <li><strong>APWorld Update</strong> Aquaria</li>
+                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
+                    <li><strong>APWorld Update</strong> Duke Nukem 3D</li>
+                    <li><strong>APWorld Update</strong> Faxanadu</li>
+                    <li><strong>APWorld Update</strong> Hammerwatch</li>
+                    <li><strong>APWorld Update</strong> Oracle of Seasons</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> An Untitled Story</li>
+                    <li><strong>Game Mod Update</strong> Aquaria</li>
+                    <li><strong>Game Mod Update</strong> Duke Nukem 3D</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Hollow Knight</li>
+                    <li><strong>Tracker Update</strong> Oracle of Seasons</li>
+                    <li><strong>Tracker Update</strong> Super Mario 64</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>April 13th, 2024</title>
@@ -1067,61 +1105,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> Lunacid</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>March 15th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240315" rel="alternate" type="text/html" title="March 15th, 2024"/>
-        <updated>2024-03-16T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240315</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for March 15th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>AP Release Candidate</strong> 0.4.5 RC1</li>
-                </ul>
-
-                <ul>
-                    <li><strong>APWorld Update</strong> An Untitled Story</li>
-                    <li><strong>APWorld Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
-                    <li><strong>APWorld Update</strong> Outer Wilds</li>
-                    <li><strong>APWorld Update</strong> Psychonauts</li>
-                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> An Untitled Story</li>
-                    <li><strong>Game Mod Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>Game Mod Update</strong> OpenRCT2</li>
-                    <li><strong>Game Mod Update</strong> Outer Wilds</li>
-                    <li><strong>Game Mod Update</strong> Psychonauts</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Update Merged</strong> Starcraft 2: <em>Multi-Campaign</em></li>
-                    <li><strong>Game Update Merged</strong> Stardew Valley: <em>The Allsanity Update</em></li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Guitar Hero 3: Legends of Rock</li>
-                    <li><strong>Manual APWorld Update</strong> Manual Rhythm Game Randomizer</li>
-                    <li><strong>Manual APWorld Update</strong> Super Mario All-Stars</li>
-                    <li><strong>Manual APWorld Update</strong> Touhou (Multiple Games)</li>
-                    <li><strong>Manual APWorld Update</strong> Ultimate Custom Night</li>
-                    <li><strong>Manual APWorld Update</strong> Xenoblade Chronicles</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Game Merged</strong> Zork Grand Inquisitor</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Pokeclicker</li>
                 </ul>
             ]]>
         </content>
