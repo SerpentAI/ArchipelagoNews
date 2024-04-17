@@ -10,7 +10,44 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-04-16T00:00:00-05:00</updated>
+    <updated>2024-04-17T00:00:00-05:00</updated>
+
+    <entry>
+        <title>April 16th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240416" rel="alternate" type="text/html" title="April 16th, 2024"/>
+        <updated>2024-04-17T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240416</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for April 16th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
+                    <li><strong>APWorld Update</strong> Monster Sanctuary</li>
+                    <li><strong>APWorld Update</strong> Oracle of Seasons</li>
+                    <li><strong>APWorld Update</strong> Soul Blazer</li>
+                    <li><strong>APWorld Update</strong> Yu-Gi-Oh! Ultimate Masters: WCT 2006</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Monster Sanctuary</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Stray</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Tracker</strong> Psychonauts</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Castlevania: Circle of the Moon</li>
+                    <li><strong>Tracker Update</strong> Kingdom Hearts 2</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>April 15th, 2024</title>
@@ -1070,39 +1107,6 @@
                 <ul>
                     <li><strong>Tracker Update</strong> DOOM 1993</li>
                     <li><strong>Tracker Update</strong> The Wind Waker</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>March 17th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240317" rel="alternate" type="text/html" title="March 17th, 2024"/>
-        <updated>2024-03-18T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240317</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for March 17th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> ChecksMate</li>
-                    <li><strong>APWorld Update</strong> Mega Man 2</li>
-                    <li><strong>APWorld Update</strong> TUNIC</li>
-                    <li><strong>APWorld Update</strong> ZQuest Classic: Link's Grand Adventure 3</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> ChecksMate</li>
-                    <li><strong>Game Mod Update</strong> TUNIC</li>
-                    <li><strong>Game Mod Update</strong> ZQuest Classic: Link's Grand Adventure 3</li>
-                </ul>
-                
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> PlateUp</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> CastleMinerZ</li>
                 </ul>
             ]]>
         </content>
