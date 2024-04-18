@@ -10,7 +10,48 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-04-17T00:00:00-05:00</updated>
+    <updated>2024-04-18T00:00:00-05:00</updated>
+
+    <entry>
+        <title>April 17th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240417" rel="alternate" type="text/html" title="April 17th, 2024"/>
+        <updated>2024-04-18T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240417</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for April 17th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Don't Starve Together</li>
+                    <li><strong>APWorld Update</strong> Lunacid</li>
+                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta APWorld Update</strong> Terraria</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta Game Mod Update</strong> Terraria</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> DLC Quest</li>
+                    <li><strong>Game Mod Update</strong> Don't Starve Together</li>
+                    <li><strong>Game Mod Update</strong> Lunacid</li>
+                    <li><strong>Game Mod Update</strong> Stardew Valley</li>
+                    <li><strong>Game Mod Update</strong> ULTRAKILL</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Prerelease Game Mod Update</strong> DOOM 1993</li>
+                    <li><strong>Prerelease Game Mod Update</strong> DOOM II</li>
+                    <li><strong>Prerelease Game Mod Update</strong> Heretic</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
+
 
     <entry>
         <title>April 16th, 2024</title>
@@ -1069,44 +1110,6 @@
                 <ul>
                     <li><strong>Tracker Update</strong> Super Mario 64</li>
                     <li><strong>Tracker Update</strong> The Wind Waker [<a href="apworlds.html#TheWindWaker">Link</a>]</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>March 18th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240318" rel="alternate" type="text/html" title="March 18th, 2024"/>
-        <updated>2024-03-19T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240318</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for March 18th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>APWorld Update</strong> Kingdom Hearts Re:Chain of Memories</li>
-                    <li><strong>APWorld Update</strong> Rabi-Ribi</li>
-                    <li><strong>APWorld Update</strong> Reventure</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>Game Mod Update</strong> Reventure</li>
-                    <li><strong>Game Mod Update</strong> ULTRAKILL</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Cuphead</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Dead by Daylight (Killer)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> DOOM 1993</li>
-                    <li><strong>Tracker Update</strong> The Wind Waker</li>
                 </ul>
             ]]>
         </content>
