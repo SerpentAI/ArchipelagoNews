@@ -10,7 +10,58 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-04-22T00:00:00-05:00</updated>
+    <updated>2024-04-23T00:00:00-05:00</updated>
+
+    <entry>
+        <title>April 22nd, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240422" rel="alternate" type="text/html" title="April 22nd, 2024"/>
+        <updated>2024-04-23T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240422</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for April 22nd, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>AP RELEASE</strong> 0.4.6</li>
+                </ul>
+
+                <ul>
+                    <li><strong>APWorld Update</strong> Bloons TD 6</li>
+                    <li><strong>APWorld Update</strong> Mario and Luigi Superstar Saga</li>
+                    <li><strong>APWorld Update</strong> Minit</li>
+                    <li><strong>APWorld Update</strong> osu!</li>
+                    <li><strong>APWorld Update</strong> Paper Mario 64</li>
+                    <li><strong>APWorld Update</strong> Super Junkoid (Super Metroid Hack)</li>
+                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Bloons TD 6</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> LEGO Batman: The Videogame</li>
+                    <li><strong>Manual APWorld Update</strong> Peggle</li>
+                    <li><strong>Manual APWorld Update</strong> Pokeclicker</li>
+                    <li><strong>Manual APWorld Update</strong> Skyrim Special Edition</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New APWorld</strong> Into the Breach</li>
+                    <li><strong>New APWorld</strong> Mega Man X</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Game PR Opened</strong> Aquaria</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Psychonauts</li>
+                    <li><strong>Tracker Update</strong> Super Junkoid (Super Metroid Hack)</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>April 21st, 2024</title>
@@ -1084,37 +1135,6 @@
 
                 <ul>
                     <li><strong>New Manual APWorld</strong> Resident Evil Village (Fishing)</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>March 23rd, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240323" rel="alternate" type="text/html" title="March 23rd, 2024"/>
-        <updated>2024-03-24T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240323</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for March 23rd, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Final Fantasy Tactics Advance</li>
-                    <li><strong>APWorld Update</strong> Oracle of Seasons</li>
-                </ul>
-                
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Cuphead</li>
-                    <li><strong>Manual APWorld Update</strong> Shovel Knight: Shovel of Hope</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Pokemon HeartGold & SoulSilver (Fishing)</li>
-                    <li><strong>New Manual APWorld</strong> Starbound (Fishing)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Wario Land 4</li>
                 </ul>
             ]]>
         </content>
