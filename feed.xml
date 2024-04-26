@@ -10,7 +10,37 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-04-25T00:00:00-05:00</updated>
+    <updated>2024-04-26T00:00:00-05:00</updated>
+
+    <entry>
+        <title>April 25th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240425" rel="alternate" type="text/html" title="April 25th, 2024"/>
+        <updated>2024-04-26T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240425</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for April 25th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Astalon: Tears of the Earth</li>
+                    <li><strong>APWorld Update</strong> Mega Man X</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Astalon: Tears of the Earth</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Genshin Impact</li>
+                    <li><strong>Manual APWorld Update</strong> Peggle</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New APWorld</strong> Resident Evil 3 Remake</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>April 24th, 2024</title>
@@ -1126,64 +1156,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> The Wind Waker</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>March 26th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240326" rel="alternate" type="text/html" title="March 26th, 2024"/>
-        <updated>2024-03-27T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240326</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for March 26th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
-                    <li><strong>APWorld Update</strong> Yu-Gi-Oh! Forbidden Memories</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Astalon: Tears of the Earth</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Warframe (Part Hunt)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New APWorld</strong> Scooby-Doo! Night of 100 Frights</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> The Wind Waker</li>
-                    <li><strong>Tracker Update</strong> Yu-Gi-Oh! Forbidden Memories</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>March 25th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240325" rel="alternate" type="text/html" title="March 25th, 2024"/>
-        <updated>2024-03-26T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240325</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for March 25th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>APWorld Update</strong> Satisfactory</li>
-                    <li><strong>APWorld Update</strong> The Guardian Legend</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>Game Mod Update</strong> DLC Quest</li>
                 </ul>
             ]]>
         </content>
