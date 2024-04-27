@@ -10,7 +10,50 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-04-26T00:00:00-05:00</updated>
+    <updated>2024-04-27T00:00:00-05:00</updated>
+
+    <entry>
+        <title>April 26th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240426" rel="alternate" type="text/html" title="April 26th, 2024"/>
+        <updated>2024-04-27T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240426</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for April 26th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
+                    <li><strong>APWorld Update</strong> Mega Man X3</li>
+                    <li><strong>APWorld Update</strong> Paper Mario 64</li>
+                    <li><strong>APWorld Update</strong> Resident Evil 2 Remake</li>
+                    <li><strong>APWorld Update</strong> Scooby-Doo! Night of 100 Frights</li>
+                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Into the Breach</li>
+                    <li><strong>Game Mod Update</strong> Resident Evil 2 Remake</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Bejeweled 3 </li>
+                    <li><strong>Manual APWorld Update</strong> Beneath the Surface</li>
+                    <li><strong>Manual APWorld Update</strong> Peggle</li>
+                    <li><strong>Manual APWorld Update</strong> Skyrim Special Edition: Legacy of the Dragonborn</li>
+                    <li><strong>Manual APWorld Update</strong> Will You Snail?</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Prerelease APWorld</strong> Muse Dash</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Prerelease Game Mod</strong> Muse Dash</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
+
 
     <entry>
         <title>April 25th, 2024</title>
@@ -1119,43 +1162,6 @@
 
                 <ul>
                     <li><strong>New Tracker</strong> Monster Sanctuary</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>March 27th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240327" rel="alternate" type="text/html" title="March 27th, 2024"/>
-        <updated>2024-03-28T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240327</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for March 27th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
-                    <li><strong>APWorld Update</strong> Brotato</li>
-                    <li><strong>APWorld Update</strong> Mario and Luigi Superstar Saga</li>
-                    <li><strong>APWorld Update</strong> Monster Sanctuary</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Brotato</li>
-                    <li><strong>Game Mod Update</strong> Monster Sanctuary</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Clubhouse Games: 51 Worldwide Classics</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Pokemon HeartGold & SoulSilver (Fishing)</li>
-                    <li><strong>Manual APWorld Update</strong> Will You Snail</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> The Wind Waker</li>
                 </ul>
             ]]>
         </content>
