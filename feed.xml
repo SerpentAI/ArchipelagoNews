@@ -10,7 +10,55 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-04-30T00:00:00-05:00</updated>
+    <updated>2024-05-01T00:00:00-05:00</updated>
+
+    <entry>
+        <title>April 30th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240430" rel="alternate" type="text/html" title="April 30th, 2024"/>
+        <updated>2024-05-01T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240430</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for April 30th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> ChecksMate</li>
+                    <li><strong>APWorld Update</strong> Hades</li>
+                    <li><strong>APWorld Update</strong> Lethal Company</li>
+                    <li><strong>APWorld Update</strong> Lunacid</li>
+                    <li><strong>APWorld Update</strong> osu!</li>
+                    <li><strong>APWorld Update</strong> Paper Mario 64</li>
+                    <li><strong>APWorld Update</strong> Scooby-Doo! Night of 100 Frights</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> ChecksMate</li>
+                    <li><strong>Game Mod Update</strong> Hades</li>
+                    <li><strong>Game Mod Update</strong> Lethal Company</li>
+                    <li><strong>Game Mod Update</strong> Lunacid</li>
+                    <li><strong>Game Mod Update</strong> Timespinner</li>
+                    <li><strong>Game Mod Update</strong> The Witness</li>
+                    <li><strong>Game Mod Update</strong> ULTRAKILL</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Peggle</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New APWorld</strong> Saving Princess</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Peggle Nights</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Wario Land 4</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>April 29th, 2024</title>
@@ -1117,40 +1165,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> Lingo</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>March 31st, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240331" rel="alternate" type="text/html" title="March 31st, 2024"/>
-        <updated>2024-04-01T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240331</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for March 31st, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
-                    <li><strong>APWorld Update</strong> TUNIC</li>
-                    <li><strong>APWorld Update</strong> Wario Land 1</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Stardew Valley</li>
-                    <li><strong>Game Mod Update</strong> The Messenger</li>
-                    <li><strong>Game Mod Update</strong> TUNIC</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Halo: Reach</li>
-                    <li><strong>New Manual APWorld</strong> Mario Kart Wii</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> A Link to the Past</li>
-                    <li><strong>Tracker Update</strong> Super Junkoid (Super Metroid Hack)</li>
                 </ul>
             ]]>
         </content>
