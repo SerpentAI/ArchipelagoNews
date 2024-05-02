@@ -10,7 +10,35 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-05-01T00:00:00-05:00</updated>
+    <updated>2024-05-02T00:00:00-05:00</updated>
+
+    <entry>
+        <title>May 1st, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240501" rel="alternate" type="text/html" title="May 1st, 2024"/>
+        <updated>2024-05-02T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240501</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for May 1st, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Mario and Luigi: Superstar Saga</li>
+                    <li><strong>APWorld Update</strong> ULTRAKILL</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Stardew Valley</li>
+                    <li><strong>Game Mod Update</strong> The Messenger</li>
+                    <li><strong>Game Mod Update</strong> ULTRAKILL</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Mario + Rabbids Kingdom Battle</li>
+                    <li><strong>New Manual APWorld</strong> Theatrhythm Final Bar Line</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>April 30th, 2024</title>
@@ -1127,44 +1155,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> The Wind Waker</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>April 1st, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240401" rel="alternate" type="text/html" title="April 1st, 2024"/>
-        <updated>2024-04-02T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240401</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for April 1st, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>AP RELEASE</strong> 0.4.5</li>
-                </ul>
-
-                <ul>
-                    <li><strong>APWorld Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>APWorld Update</strong> Lingo</li>
-                    <li><strong>APWorld Update</strong> Pokemon Emerald</li>
-                    <li><strong>APWorld Update</strong> Rabi-Ribi</li>
-                    <li><strong>APWorld Update</strong> Super Junkoid (Super Metroid Hack)</li>
-                    <li><strong>APWorld Update</strong> Super Mario Land 2</li>
-                    <li><strong>APWorld Update</strong> TUNIC</li>
-                    <li><strong>APWorld Update</strong> Yacht Dice (Yahtzee)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> A Short Hike</li>
-                    <li><strong>Game Mod Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>Game Mod Update</strong> Stardew Valley</li>
-                    <li><strong>Game Mod Update</strong> TUNIC</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Lingo</li>
                 </ul>
             ]]>
         </content>
