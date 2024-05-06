@@ -10,7 +10,43 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-05-05T00:00:00-05:00</updated>
+    <updated>2024-05-06T00:00:00-05:00</updated>
+
+    <entry>
+        <title>May 5th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240505" rel="alternate" type="text/html" title="May 5th, 2024"/>
+        <updated>2024-05-06T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240505</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for May 5th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Civilization VI</li>
+                    <li><strong>APWorld Update</strong> Outer Wilds</li>
+                    <li><strong>APWorld Update</strong> Yooka-Laylee</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Civilization VI</li>
+                    <li><strong>Game Mod Update</strong> Hammerwatch</li>
+                    <li><strong>Game Mod Update</strong> Outer Wilds</li>
+                    <li><strong>Game Mod Update</strong> The Messenger</li>
+                    <li><strong>Game Mod Update</strong> Yooka-Laylee</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Update Merged</strong> Celeste 64: <em>v1.2 Content Update</em></li>
+                    <li><strong>Game Update Merged</strong> Pokemon Emerald: <em>Convert to procedure patch (ROM-Free Generation)</em></li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Final Fantasy XIV</li>
+                    <li><strong>Manual APWorld Update</strong> Smash Bros Melee (Slippi)</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>May 4th, 2024</title>
@@ -1122,47 +1158,6 @@
                 <ul>
                     <li><strong>Manual APWorld Update</strong> Hyrule Warriors Definitive Edition</li>
                     <li><strong>Manual APWorld Update</strong> Super Robot Wars 30</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>April 5th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240405" rel="alternate" type="text/html" title="April 5th, 2024"/>
-        <updated>2024-04-06T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240405</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for April 5th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
-                    <li><strong>APWorld Update</strong> Mega Man X3</li>
-                    <li><strong>APWorld Update</strong> Paper Mario 64</li>
-                    <li><strong>APWorld Update</strong> Super Junkoid (Super Metroid Hack)</li>
-                    <li><strong>APWorld Update</strong> Universal Tracker</li>
-                    <li><strong>APWorld Update</strong> Yacht Dice (Yahtzee)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> An Untitled Story</li>
-                    <li><strong>Game Mod Update</strong> Yacht Dice (Yahtzee)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Mario Kart Wii</li>
-                    <li><strong>Manual APWorld Update</strong> Super Mario 3D World</li>
-                    <li><strong>Manual APWorld Update</strong> Zelda CD-I</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Mario Kart DS</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> A Short Hike</li>
-                    <li><strong>Tracker Update</strong> Super Junkoid (Super Metroid Hack)</li>
                 </ul>
             ]]>
         </content>
