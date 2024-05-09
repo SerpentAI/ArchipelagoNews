@@ -10,7 +10,42 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-05-08T00:00:00-05:00</updated>
+    <updated>2024-05-09T00:00:00-05:00</updated>
+
+    <entry>
+        <title>May 8th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240508" rel="alternate" type="text/html" title="May 8th, 2024"/>
+        <updated>2024-05-09T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240508</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for May 8th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> A Hat in Time </li>
+                    <li><strong>APWorld Update</strong> CrossCode</li>
+                    <li><strong>APWorld Update</strong> Don't Starve Together</li>
+                    <li><strong>APWorld Update</strong> Final Fantasy XII: Open World</li>
+                    <li><strong>APWorld Update</strong> Scooby-Doo! Night of 100 Frights</li>
+                    <li><strong>APWorld Update</strong> Soul Blazer</li>
+                    <li><strong>APWorld Update</strong> The Guardian Legend</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> A Hat in Time</li>
+                    <li><strong>Game Mod Update</strong> Civilization VI</li>
+                    <li><strong>Game Mod Update</strong> CrossCode</li>
+                    <li><strong>Game Mod Update</strong> Don't Starve Together</li>
+                    <li><strong>Game Mod Update</strong> Final Fantasy XII: Open World</li>
+                    <li><strong>Game Mod Update</strong> Into the Breach</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Crash Team Racing: Nitro Fueled</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>May 7th, 2024</title>
@@ -1111,47 +1146,6 @@
                 <ul>
                     <li><strong>Game Update Merged</strong> Hollow Knight: <em>Godhome Goal Logic</em></li>
                     <li><strong>Game Update Merged</strong> Risk of Rain 2: <em>Progressive Stage Options</em></li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>April 8th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240408" rel="alternate" type="text/html" title="April 8th, 2024"/>
-        <updated>2024-04-09T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240408</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for April 8th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Scooby-Doo! Night of 100 Frights</li>
-                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
-                    <li><strong>APWorld Update</strong> Yu-Gi-Oh! Ultimate Masters: WCT 2006</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Bejeweled 3</li>
-                    <li><strong>Manual APWorld Update</strong> CastleMinerZ</li>
-                    <li><strong>Manual APWorld Update</strong> Halo: Reach</li>
-                    <li><strong>Manual APWorld Update</strong> Pokemon HeartGold & SoulSilver (Fishing)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New APWorld</strong> Tyrian</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Beta APWorld</strong> Terraria</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Beta Game Mod</strong> Terraria</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Myst</li>
                 </ul>
             ]]>
         </content>
