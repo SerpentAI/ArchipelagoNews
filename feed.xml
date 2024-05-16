@@ -10,7 +10,44 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-05-15T00:00:00-05:00</updated>
+    <updated>2024-05-16T00:00:00-05:00</updated>
+
+    <entry>
+        <title>May 15th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240515" rel="alternate" type="text/html" title="May 15th, 2024"/>
+        <updated>2024-05-16T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240515</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for May 15th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> A Hat in Time</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta APWorld Update</strong> The Witness</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> A Hat in Time</li>
+                    <li><strong>Game Mod Update</strong> Lethal Company</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Deep Rock Galactic</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Tracker</strong> Yoshi's Island</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Lingo</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>May 14th, 2024</title>
@@ -1088,48 +1125,6 @@
                 <ul>
                     <li><strong>Tracker Update</strong> Castlevania: Circle of the Moon</li>
                     <li><strong>Tracker Update</strong> Kingdom Hearts 2</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>April 15th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240415" rel="alternate" type="text/html" title="April 15th, 2024"/>
-        <updated>2024-04-16T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240415</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for April 15th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Mario and Luigi: Superstar Saga</li>
-                    <li><strong>APWorld Update</strong> Mega Man 2</li>
-                    <li><strong>APWorld Update</strong> Monster Sanctuary</li>
-                    <li><strong>APWorld Update</strong> osu!</li>
-                    <li><strong>APWorld Update</strong> Rabi-Ribi</li>
-                    <li><strong>APWorld Update</strong> The Wind Waker</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Monster Sanctuary</li>
-                    <li><strong>Game Mod Update</strong> Stardew Valley</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Monster Hunter Rise</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New APWorld</strong> Soul Blazer</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Prerelease APWorld</strong> Castlevania 64</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> TUNIC</li>
                 </ul>
             ]]>
         </content>
