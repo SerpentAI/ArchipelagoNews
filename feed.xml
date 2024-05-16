@@ -10,7 +10,44 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-05-14T00:00:00-05:00</updated>
+    <updated>2024-05-15T00:00:00-05:00</updated>
+
+    <entry>
+        <title>May 14th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240514" rel="alternate" type="text/html" title="May 14th, 2024"/>
+        <updated>2024-05-15T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240514</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for May 14th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Castlevania: Circle of the Moon</li>
+                    <li><strong>APWorld Update</strong> Don't Starve Together</li>
+                    <li><strong>APWorld Update</strong> Yacht Dice (Yahtzee)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Hammerwatch</li>
+                    <li><strong>Game Mod Update</strong> Yacht Dice (Yahtzee)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Kirby Triple Deluxe</li>
+                    <li><strong>Manual APWorld Update</strong> Pokemon Legends: Arceus</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Game PR Opened</strong> Castlevania: Circle of the Moon</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Blast Corps</li>
+                    <li><strong>New Manual APWorld</strong> Ratchet & Clank 3: Up Your Arsenal</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>May 13th, 2024</title>
@@ -1093,44 +1130,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> TUNIC</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>April 14th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240414" rel="alternate" type="text/html" title="April 14th, 2024"/>
-        <updated>2024-04-15T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240414</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for April 14th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>AP Release Candidate</strong> 0.4.6 RC1</li>
-                </ul>
-
-                <ul>
-                    <li><strong>APWorld Update</strong> An Untitled Story</li>
-                    <li><strong>APWorld Update</strong> Aquaria</li>
-                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
-                    <li><strong>APWorld Update</strong> Duke Nukem 3D</li>
-                    <li><strong>APWorld Update</strong> Faxanadu</li>
-                    <li><strong>APWorld Update</strong> Hammerwatch</li>
-                    <li><strong>APWorld Update</strong> Oracle of Seasons</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> An Untitled Story</li>
-                    <li><strong>Game Mod Update</strong> Aquaria</li>
-                    <li><strong>Game Mod Update</strong> Duke Nukem 3D</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Hollow Knight</li>
-                    <li><strong>Tracker Update</strong> Oracle of Seasons</li>
-                    <li><strong>Tracker Update</strong> Super Mario 64</li>
                 </ul>
             ]]>
         </content>
