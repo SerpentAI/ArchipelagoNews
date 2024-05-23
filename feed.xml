@@ -10,7 +10,45 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-05-22T00:00:00-05:00</updated>
+    <updated>2024-05-23T00:00:00-05:00</updated>
+
+    <entry>
+        <title>May 22nd, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240522" rel="alternate" type="text/html" title="May 22nd, 2024"/>
+        <updated>2024-05-23T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240522</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for May 22nd, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Castlevania: Symphony of the Night</li>
+                    <li><strong>APWorld Update</strong> Civilization VI</li>
+                    <li><strong>APWorld Update</strong> Gauntlet Legends</li>
+                    <li><strong>APWorld Update</strong> Into the Breach</li>
+                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
+                    <li><strong>APWorld Update</strong> Metroid Prime</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Into the Breach</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Blast Corps</li>
+                    <li><strong>Manual APWorld Update</strong> Generic Manual for Level-Based Games</li>
+                    <li><strong>Manual APWorld Update</strong> The Grinch</li>
+                    <li><strong>Manual APWorld Update</strong> Yume Nikki</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Beat Saber</li>
+                    <li><strong>New Manual APWorld</strong> Friday Night Funkin'</li>
+                    <li><strong>New Manual APWorld</strong> Rainworld (Modded)</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>May 21st, 2024</title>
@@ -1120,56 +1158,6 @@
                 <ul>
                     <li><strong>Tracker Update</strong> Mario and Luigi Superstar Saga</li>
                     <li><strong>Tracker Update</strong> Pokemon Emerald</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>April 22nd, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240422" rel="alternate" type="text/html" title="April 22nd, 2024"/>
-        <updated>2024-04-23T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240422</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for April 22nd, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>AP RELEASE</strong> 0.4.6</li>
-                </ul>
-
-                <ul>
-                    <li><strong>APWorld Update</strong> Bloons TD 6</li>
-                    <li><strong>APWorld Update</strong> Mario and Luigi Superstar Saga</li>
-                    <li><strong>APWorld Update</strong> Minit</li>
-                    <li><strong>APWorld Update</strong> osu!</li>
-                    <li><strong>APWorld Update</strong> Paper Mario 64</li>
-                    <li><strong>APWorld Update</strong> Super Junkoid (Super Metroid Hack)</li>
-                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Bloons TD 6</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> LEGO Batman: The Videogame</li>
-                    <li><strong>Manual APWorld Update</strong> Peggle</li>
-                    <li><strong>Manual APWorld Update</strong> Skyrim Special Edition</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New APWorld</strong> Into the Breach</li>
-                    <li><strong>New APWorld</strong> Mega Man X</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Game PR Opened</strong> Aquaria</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Psychonauts</li>
-                    <li><strong>Tracker Update</strong> Super Junkoid (Super Metroid Hack)</li>
                 </ul>
             ]]>
         </content>
