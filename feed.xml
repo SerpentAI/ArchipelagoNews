@@ -10,7 +10,39 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-05-24T00:00:00-05:00</updated>
+    <updated>2024-05-25T00:00:00-05:00</updated>
+
+    <entry>
+        <title>May 24th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240524" rel="alternate" type="text/html" title="May 24th, 2024"/>
+        <updated>2024-05-25T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240524</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for May 24th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
+                    <li><strong>APWorld Update</strong> Final Fantasy Tactics Advance</li>
+                    <li><strong>APWorld Update</strong> Mega Man X</li>
+                    <li><strong>APWorld Update</strong> Mega Man X3</li>
+                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> KoboldKare</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Prerelease APWorld</strong> Muse Dash</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Prerelease Game Mod</strong> Muse Dash</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>May 23rd, 2024</title>
@@ -1117,43 +1149,6 @@
 
                 <ul>
                     <li><strong>New APWorld</strong> Resident Evil 3 Remake</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>April 24th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240424" rel="alternate" type="text/html" title="April 24th, 2024"/>
-        <updated>2024-04-25T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240424</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for April 24th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Final Fantasy XII: Open World</li>
-                    <li><strong>APWorld Update</strong> Mega Man X</li>
-                    <li><strong>APWorld Update</strong> Paper Mario 64</li>
-                    <li><strong>APWorld Update</strong> Soul Blazer</li>
-                    <li><strong>APWorld Update</strong> Universal Tracker</li>
-                    <li><strong>APWorld Update</strong> Wargroove 2</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> ChecksFinder</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> LEGO Batman: The Videogame</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Beta APWorld</strong> Celeste 64</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Beta Game Mod</strong> Celeste 64</li>
                 </ul>
             ]]>
         </content>
