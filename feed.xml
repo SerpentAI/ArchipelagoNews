@@ -10,7 +10,42 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-05-25T00:00:00-05:00</updated>
+    <updated>2024-05-26T00:00:00-05:00</updated>
+
+    <entry>
+        <title>May 25th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240525" rel="alternate" type="text/html" title="May 25th, 2024"/>
+        <updated>2024-05-26T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240525</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for May 25th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> CrossCode</li>
+                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
+                    <li><strong>APWorld Update</strong> Mega Man X</li>
+                    <li><strong>APWorld Update</strong> Mega Man X3</li>
+                    <li><strong>APWorld Update</strong> Super Mario Land 2</li>
+                    <li><strong>APWorld Update</strong> Yacht Dice (Yahtzee)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> CrossCode</li>
+                    <li><strong>Game Mod Update</strong> Yacht Dice (Yahtzee)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Black Souls</li>
+                    <li><strong>Manual APWorld Update</strong> The Grinch</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Mega Man X</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>May 24th, 2024</title>
@@ -1119,36 +1154,6 @@
 
                 <ul>
                     <li><strong>New Prerelease Game Mod</strong> Muse Dash</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>April 25th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240425" rel="alternate" type="text/html" title="April 25th, 2024"/>
-        <updated>2024-04-26T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240425</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for April 25th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>APWorld Update</strong> Mega Man X</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Astalon: Tears of the Earth</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Genshin Impact</li>
-                    <li><strong>Manual APWorld Update</strong> Peggle</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New APWorld</strong> Resident Evil 3 Remake</li>
                 </ul>
             ]]>
         </content>
