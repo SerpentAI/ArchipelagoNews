@@ -10,7 +10,51 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-06-02T00:00:00-05:00</updated>
+    <updated>2024-06-03T00:00:00-05:00</updated>
+
+    <entry>
+        <title>June 2nd, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240602" rel="alternate" type="text/html" title="June 2nd, 2024"/>
+        <updated>2024-06-03T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240602</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 2nd, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong>ANIMAL WELL</li>
+                    <li><strong>APWorld Update</strong>Super Mario Land 2</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Bomb Rush Cyberfunk</li>
+                    <li><strong>Game Mod Update</strong> Lingo</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Bowser's Fury</li>
+                    <li><strong>Manual APWorld Update</strong> Vampire Survivors</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New APWorld</strong> Cave Story</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Beta APWorld</strong> Risk of Rain 2</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Beta Game Mod</strong> Risk of Rain 2</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Final Fantasy 5 Career Day</li>
+                    <li><strong>Tracker Update</strong> Pokemon Crystal</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>June 1st, 2024</title>
@@ -1156,43 +1200,6 @@
                     <li><strong>Tracker Update</strong> A Hat in Time</li>
                     <li><strong>Tracker Update</strong> Risk of Rain 2</li>
                     <li><strong>Tracker Update</strong> The Wind Waker</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 3rd, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240503" rel="alternate" type="text/html" title="May 3rd, 2024"/>
-        <updated>2024-05-04T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240503</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 3rd, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
-                    <li><strong>APWorld Update</strong> Bomb Rush Cyberfunk</li>
-                    <li><strong>APWorld Update</strong> Castlevania: Symphony of the Night</li>
-                    <li><strong>APWorld Update</strong> Civilization VI</li>
-                    <li><strong>APWorld Update</strong> Final Fantasy XII: Open World</li>
-                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
-                    <li><strong>APWorld Update</strong> Outer Wilds</li>
-                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>Game Mod Update</strong> Bomb Rush Cyberfunk</li>
-                    <li><strong>Game Mod Update</strong> Civilization VI</li>
-                    <li><strong>Game Mod Update</strong> Final Fantasy XII: Open World</li>
-                    <li><strong>Game Mod Update</strong> Lethal Company</li>
-                    <li><strong>Game Mod Update</strong> Outer Wilds</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Pokemon HeartGold & SoulSilver (Fishing)</li>
                 </ul>
             ]]>
         </content>
