@@ -10,7 +10,63 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-06-01T00:00:00-05:00</updated>
+    <updated>2024-06-02T00:00:00-05:00</updated>
+
+    <entry>
+        <title>June 1st, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240601" rel="alternate" type="text/html" title="June 1st, 2024"/>
+        <updated>2024-06-02T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240601</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 1st, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>AP Release Candidate</strong> 0.5.0 RC1</li>
+                </ul>
+
+                <ul>
+                    <li><strong>APWorld Update</strong> Civilization VI</li>
+                    <li><strong>APWorld Update</strong> Jak and Daxter</li>
+                    <li><strong>APWorld Update</strong> Pokemon Crystal</li>
+                    <li><strong>APWorld Update</strong> Rabi-Ribi</li>
+                    <li><strong>APWorld Update</strong> Soul Blazer</li>
+                    <li><strong>APWorld Update</strong> Subversion (Super Metroid Hack)</li>
+                    <li><strong>APWorld Update</strong> Super Junkoid (Super Metroid Hack)</li>
+                    <li><strong>APWorld Update</strong> ULTRAKILL</li>
+                    <li><strong>APWorld Update</strong> Yacht Dice (Yahtzee)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Core Update Merged</strong> Remove Universally Unique ID Requirements (Per-Game Data Packages)</li>
+                    <li><strong>Core Update Merged</strong> Webhost: Sphere Tracker</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Civilization VI</li>
+                    <li><strong>Game Mod Update</strong> Hammerwatch </li>
+                    <li><strong>Game Mod Update</strong> Yacht Dice (Yahtzee)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Kirby Super Star Ultra</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Beta Game Mod</strong> Muse Dash</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Minecraft - Super Hostile Adventure Maps</li>
+                    <li><strong>New Manual APWorld</strong> Minecraft Suffering</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong>Pokemon Crystal</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>May 31st, 2024</title>
@@ -1137,50 +1193,6 @@
 
                 <ul>
                     <li><strong>Manual APWorld Update</strong> Pokemon HeartGold & SoulSilver (Fishing)</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 2nd, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240502" rel="alternate" type="text/html" title="May 2nd, 2024"/>
-        <updated>2024-05-03T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240502</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 2nd, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Mario and Luigi: Superstar Saga</li>
-                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
-                    <li><strong>APWorld Update</strong> The Wind Waker</li>
-                    <li><strong>APWorld Update</strong> Wario Land 4</li>
-                    <li><strong>APWorld Update</strong> Yacht Dice (Yahtzee)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Lunacid</li>
-                    <li><strong>Game Mod Update</strong> Stardew Valley</li>
-                    <li><strong>Game Mod Update</strong> Yacht Dice (Yahtzee)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> HuniePop</li>
-                    <li><strong>Manual APWorld Update</strong> Shapez</li>
-                </ul>
-                
-                <ul>
-                    <li><strong>New APWorld</strong> Civilization VI</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Streets of Rogue</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> A Hat in Time</li>
-                    <li><strong>Tracker Update</strong> The Wind Waker</li>
                 </ul>
             ]]>
         </content>
