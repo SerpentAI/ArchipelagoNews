@@ -10,7 +10,45 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-06-03T00:00:00-05:00</updated>
+    <updated>2024-06-04T00:00:00-05:00</updated>
+
+    <entry>
+        <title>June 3rd, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240603" rel="alternate" type="text/html" title="June 3rd, 2024"/>
+        <updated>2024-06-04T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240603</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 3rd, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong>A Hat in Time</li>
+                    <li><strong>APWorld Update</strong>Bloons TD 6</li>
+                    <li><strong>APWorld Update</strong>Metroid Prime</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Noita</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Dead By Daylight (Killer)</li>
+                    <li><strong>Manual APWorld Update</strong> Generic Manual for Level-Based Games</li>
+                    <li><strong>Manual APWorld Update</strong> Splatoon 2</li>
+                    <li><strong>Manual APWorld Update</strong> Vampire Survivors</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> ARMS</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Soul Blazer</li>
+                    <li><strong>Tracker Update</strong> Yu-Gi-Oh! Forbidden Memories</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>June 2nd, 2024</title>
@@ -1149,57 +1187,6 @@
                 <ul>
                     <li><strong>Manual APWorld Update</strong> Final Fantasy XIV</li>
                     <li><strong>Manual APWorld Update</strong> Smash Bros Melee (Slippi)</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 4th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240504" rel="alternate" type="text/html" title="May 4th, 2024"/>
-        <updated>2024-05-05T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240504</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 4th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Civilization VI</li>
-                    <li><strong>APWorld Update</strong> Hammerwatch</li>
-                    <li><strong>APWorld Update</strong> Into the Breach</li>
-                    <li><strong>APWorld Update</strong> Saving Princess</li>
-                    <li><strong>APWorld Update</strong> Soul Blazer</li>
-                    <li><strong>APWorld Update</strong> Wargroove 2</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Civilization VI</li>
-                    <li><strong>Game Mod Update</strong> Hammerwatch</li>
-                    <li><strong>Game Mod Update</strong> Into the Breach</li>
-                    <li><strong>Game Mod Update</strong> Risk of Rain 2</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Pokemon HeartGold & SoulSilver (Fishing)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New APWorld</strong> Star Wars: Episode I RacerStar Wars: Episode I Racer</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Game PR Opened</strong> Wario Land 4</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Puyo-Puyo Tetris 2</li>
-                    <li><strong>New Manual APWorld</strong> Team Fortress 2 - Mann vs Machine</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> A Hat in Time</li>
-                    <li><strong>Tracker Update</strong> Risk of Rain 2</li>
-                    <li><strong>Tracker Update</strong> The Wind Waker</li>
                 </ul>
             ]]>
         </content>
