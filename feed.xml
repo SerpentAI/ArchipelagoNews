@@ -10,7 +10,42 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-06-04T00:00:00-05:00</updated>
+    <updated>2024-06-05T00:00:00-05:00</updated>
+
+    <entry>
+        <title>June 4th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240604" rel="alternate" type="text/html" title="June 4th, 2024"/>
+        <updated>2024-06-05T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240604</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 4th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Cave Story</li>
+                    <li><strong>APWorld Update</strong> CrossCode</li>
+                    <li><strong>APWorld Update</strong> Gauntlet Legends</li>
+                    <li><strong>APWorld Update</strong> Keep Talking and Nobody Explodes</li>
+                    <li><strong>APWorld Update</strong> Lethal Company</li>
+                    <li><strong>APWorld Update</strong> Scooby-Doo! Night of 100 Frights</li>
+                    <li><strong>APWorld Update</strong> Soul Blazer</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> CrossCode</li>
+                    <li><strong>Game Mod Update</strong> Lethal Company</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Update Merged</strong> Risk of Rain 2: <em>Add Support for New Stage</em></li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Super Junkoid (Super Metroid Hack)</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>June 3rd, 2024</title>
@@ -1151,42 +1186,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> A Hat in Time</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 5th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240505" rel="alternate" type="text/html" title="May 5th, 2024"/>
-        <updated>2024-05-06T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240505</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 5th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Civilization VI</li>
-                    <li><strong>APWorld Update</strong> Outer Wilds</li>
-                    <li><strong>APWorld Update</strong> Yooka-Laylee</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Civilization VI</li>
-                    <li><strong>Game Mod Update</strong> Hammerwatch</li>
-                    <li><strong>Game Mod Update</strong> Outer Wilds</li>
-                    <li><strong>Game Mod Update</strong> The Messenger</li>
-                    <li><strong>Game Mod Update</strong> Yooka-Laylee</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Update Merged</strong> Celeste 64: <em>v1.2 Content Update</em></li>
-                    <li><strong>Game Update Merged</strong> Pokemon Emerald: <em>Convert to procedure patch (ROM-Free Generation)</em></li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Final Fantasy XIV</li>
-                    <li><strong>Manual APWorld Update</strong> Smash Bros Melee (Slippi)</li>
                 </ul>
             ]]>
         </content>
