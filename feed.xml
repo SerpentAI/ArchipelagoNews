@@ -10,7 +10,56 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-06-05T00:00:00-05:00</updated>
+    <updated>2024-06-06T00:00:00-05:00</updated>
+
+    <entry>
+        <title>June 5th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240605" rel="alternate" type="text/html" title="June 5th, 2024"/>
+        <updated>2024-06-06T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240605</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 5th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Castlevania: Symphony of the Night</li>
+                    <li><strong>APWorld Update</strong> Hades</li>
+                    <li><strong>APWorld Update</strong> Hatsune Miku: Project DIVA Mega Mix+</li>
+                    <li><strong>APWorld Update</strong> Into the Breach</li>
+                    <li><strong>APWorld Update</strong> Universal Tracker</li>
+                    <li><strong>APWorld Update</strong> Yacht Dice (Yahtzee)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta APWorld Update</strong> Stardew Valley</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta Game Mod Update</strong> Stardew Valley</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Hades</li>
+                    <li><strong>Game Mod Update</strong> Into the Breach</li>
+                    <li><strong>Game Mod Update</strong> Stardew Valley</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Update</strong> Meritous</li>
+                    <li><strong>Game Update</strong> Yacht Dice (Yahtzee)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> New Super Mario Brox Wii</li>
+                    <li><strong>Manual APWorld Update</strong> Putt-Putt</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Mega Man X</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>June 4th, 2024</title>
@@ -1145,47 +1194,6 @@
                 <ul>
                     <li><strong>Game Mod Update</strong> Aquaria</li>
                     <li><strong>Game Mod Update</strong> Civilization VI</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 6th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240506" rel="alternate" type="text/html" title="May 6th, 2024"/>
-        <updated>2024-05-07T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240506</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 6th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
-                    <li><strong>APWorld Update</strong> Mario and Luigi: Superstar Saga</li>
-                    <li><strong>APWorld Update</strong> osu!</li>
-                    <li><strong>APWorld Update</strong> Scooby-Doo! Night of 100 Frights</li>
-                    <li><strong>APWorld Update</strong> Super Mario Land 2</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Star Wars: Episode I Racer</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Deep Rock Galactic</li>
-                    <li><strong>Manual APWorld Update</strong> Team Fortress 2 - Mann vs Machine</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Game Merged</strong> Mario and Luigi: Superstar Saga</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Tracker</strong> Kingdom Hearts: Chain of Memories</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> A Hat in Time</li>
                 </ul>
             ]]>
         </content>
