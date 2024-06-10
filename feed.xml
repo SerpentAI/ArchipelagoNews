@@ -10,7 +10,47 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-06-09T00:00:00-05:00</updated>
+    <updated>2024-06-10T00:00:00-05:00</updated>
+
+    <entry>
+        <title>June 9th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240609" rel="alternate" type="text/html" title="June 9th, 2024"/>
+        <updated>2024-06-10T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240609</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 9th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
+                    <li><strong>APWorld Update</strong> Cave Story</li>
+                    <li><strong>APWorld Update</strong> Final Fantasy XII: Open World</li>
+                    <li><strong>APWorld Update</strong> Gauntlet Legends</li>
+                    <li><strong>APWorld Update</strong> Hatsune Miku: Project DIVA Mega Mix+</li>
+                    <li><strong>APWorld Update</strong> Outer Wilds</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Final Fantasy XII: Open World</li>
+                    <li><strong>Game Mod Update</strong> Outer Wilds</li>
+                    <li><strong>Game Mod Update</strong> Timespinner</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Mario Kart Wii</li>
+                    <li><strong>Manual APWorld Update</strong> Sky: Children of the Light</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Farmcraft: The Minecraft Farming Manual</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Soul Blazer</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>June 8th, 2024</title>
@@ -1190,34 +1230,6 @@
                     <li><strong>New Manual APWorld</strong> Phasmophobia</li>
                     <li><strong>New Manual APWorld</strong> Super Mario 64 (Generic)</li>
                 </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 10th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240510" rel="alternate" type="text/html" title="May 10th, 2024"/>
-        <updated>2024-05-11T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240510</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 10th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> A Hat in Time</li>
-                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
-                    <li><strong>APWorld Update</strong> Monster Sanctuary</li>
-                    <li><strong>APWorld Update</strong> Spelunker</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> A Hat in Time</li>
-                    <li><strong>Game Mod Update</strong> Monster Sanctuary</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Final Fantasy XIV</li>
-                </ul
             ]]>
         </content>
     </entry>
