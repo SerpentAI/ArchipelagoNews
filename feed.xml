@@ -10,7 +10,31 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-06-11T00:00:00-05:00</updated>
+    <updated>2024-06-12T00:00:00-05:00</updated>
+
+    <entry>
+        <title>June 11th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240611" rel="alternate" type="text/html" title="June 11th, 2024"/>
+        <updated>2024-06-12T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240611</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 11th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong>Banjo-Tooie</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Outer Wilds</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> The Beatles: Rock Band</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>June 10th, 2024</title>
@@ -1202,43 +1226,6 @@
                 <ul>
                     <li><strong>Game Mod Update</strong> Don't Starve Together</li>
                     <li><strong>Game Mod Update</strong> Stardew Valley</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 12th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240512" rel="alternate" type="text/html" title="May 12th, 2024"/>
-        <updated>2024-05-13T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240512</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 12th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>APWorld Update</strong> Civilization VI</li>
-                    <li><strong>APWorld Update</strong> Old School Runescape</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>Game Mod Update</strong> Civilization VI</li>
-                    <li><strong>Game Mod Update</strong> Lethal Company</li>
-                    <li><strong>Game Mod Update</strong> ULTRAKILL</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Beta APWorld</strong> Stardew Valley</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Beta Game Mod</strong> Stardew Valley</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> A Hat in Time</li>
                 </ul>
             ]]>
         </content>
