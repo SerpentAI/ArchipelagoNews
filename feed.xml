@@ -10,7 +10,39 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-06-12T00:00:00-05:00</updated>
+    <updated>2024-06-13T00:00:00-05:00</updated>
+
+    <entry>
+        <title>June 12th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240612" rel="alternate" type="text/html" title="June 12th, 2024"/>
+        <updated>2024-06-13T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240612</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 12th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> ANIMAL WELL</li>
+                    <li><strong>APWorld Update</strong> Cave Story</li>
+                    <li><strong>APWorld Update</strong> Universal Tracker</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta APWorld Update</strong> The Witness</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Minecraft - Decked Out 2</li>
+                    <li><strong>Manual APWorld Update</strong> Outer Wilds</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Mega Man X3</li>
+                    <li><strong>Tracker Update</strong> Pokemon Red and Blue</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>June 11th, 2024</title>
@@ -1201,31 +1233,6 @@
                 <ul>
                     <li><strong>New Manual APWorld</strong> Blast Corps</li>
                     <li><strong>New Manual APWorld</strong> Ratchet & Clank 3: Up Your Arsenal</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 13th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240513" rel="alternate" type="text/html" title="May 13th, 2024"/>
-        <updated>2024-05-14T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240513</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 13th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Don't Starve Together</li>
-                    <li><strong>APWorld Update</strong> Fire Emblem: The Sacred Stones</li>
-                    <li><strong>APWorld Update</strong> Mega Man X3</li>
-                    <li><strong>APWorld Update</strong> Spelunker</li>
-                    <li><strong>APWorld Update</strong> Wario Land 4</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Don't Starve Together</li>
-                    <li><strong>Game Mod Update</strong> Stardew Valley</li>
                 </ul>
             ]]>
         </content>
