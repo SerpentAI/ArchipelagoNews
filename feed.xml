@@ -10,7 +10,41 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-06-23T00:00:00-05:00</updated>
+    <updated>2024-06-24T00:00:00-05:00</updated>
+
+    <entry>
+        <title>June 23rd, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240623" rel="alternate" type="text/html" title="June 23rd, 2024"/>
+        <updated>2024-06-24T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240623</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 23rd, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> CrossCode</li>
+                    <li><strong>APWorld Update</strong> Hammerwatch</li>
+                    <li><strong>APWorld Update</strong> Minit</li>
+                    <li><strong>APWorld Update</strong> Yooka-Laylee</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> CrossCode</li>
+                    <li><strong>Game Mod Update</strong> Hammerwatch</li>
+                    <li><strong>Game Mod Update</strong> Yooka-Laylee</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New APWorld</strong> Against the Storm</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> An Untitled Story</li>
+                    <li><strong>Tracker Update</strong> DOOM II</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>June 22nd, 2024</title>
@@ -1207,38 +1241,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> Mega Man X</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 24th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240524" rel="alternate" type="text/html" title="May 24th, 2024"/>
-        <updated>2024-05-25T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240524</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 24th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
-                    <li><strong>APWorld Update</strong> Final Fantasy Tactics Advance</li>
-                    <li><strong>APWorld Update</strong> Mega Man X</li>
-                    <li><strong>APWorld Update</strong> Mega Man X3</li>
-                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> KoboldKare</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Prerelease APWorld</strong> Muse Dash</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Prerelease Game Mod</strong> Muse Dash</li>
                 </ul>
             ]]>
         </content>
