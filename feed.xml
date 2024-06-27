@@ -10,7 +10,73 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-06-24T00:00:00-05:00</updated>
+    <updated>2024-06-26T00:00:00-05:00</updated>
+
+    <entry>
+        <title>June 25th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240625" rel="alternate" type="text/html" title="June 25th, 2024"/>
+        <updated>2024-06-26T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240625</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 25th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Air Delivery</li>
+                    <li><strong>APWorld Update</strong> CrossCode</li>
+                    <li><strong>APWorld Update</strong> Lunacid</li>
+                    <li><strong>APWorld Update</strong> Super Mario Land 2</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Air Delivery</li>
+                    <li><strong>Game Mod Update</strong> CrossCode</li>
+                    <li><strong>Game Mod Update</strong> Lunacid</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Pokemon Platinum</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> An Untitled Story</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
+
+    <entry>
+        <title>June 24th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240624" rel="alternate" type="text/html" title="June 24th, 2024"/>
+        <updated>2024-06-25T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240624</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 24th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Aquaria</li>
+                    <li><strong>APWorld Update</strong> Final Fantasy 5 Career Day</li>
+                    <li><strong>APWorld Update</strong> Final Fantasy 6 Worlds Collide</li>
+                    <li><strong>APWorld Update</strong> Kingdom Hearts Re:Chain of Memories</li>
+                    <li><strong>APWorld Update</strong> Metroid Prime</li>
+                    <li><strong>APWorld Update</strong> Wario Land 4</li>
+                </ul>
+                
+                <ul>
+                    <li><strong>Game Mod Update</strong> Aquaria</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Final Fantasy XIV</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Epic Battle Fantasy 3</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>June 23rd, 2024</title>
@@ -1168,79 +1234,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> Yu-Gi-Oh! Forbidden Memories</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 26th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240526" rel="alternate" type="text/html" title="May 26th, 2024"/>
-        <updated>2024-05-27T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240526</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 26th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Civilization VI</li>
-                    <li><strong>APWorld Update</strong> Into the Breach</li>
-                    <li><strong>APWorld Update</strong> Kingdom Hearts RE: Chain of Memories</li>
-                    <li><strong>APWorld Update</strong> osu!</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Into the Breach</li>
-                    <li><strong>Game Mod Update</strong> Lunacid</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Phasmophobia</li>
-                    <li><strong>Manual APWorld Update</strong> Sly Cooper and the Thievius Raccoonus</li>
-                    <li><strong>Manual APWorld Update</strong> The Grinch</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Dexsanity</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> TUNIC</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 25th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240525" rel="alternate" type="text/html" title="May 25th, 2024"/>
-        <updated>2024-05-26T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240525</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 25th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> CrossCode</li>
-                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
-                    <li><strong>APWorld Update</strong> Mega Man X</li>
-                    <li><strong>APWorld Update</strong> Mega Man X3</li>
-                    <li><strong>APWorld Update</strong> Super Mario Land 2</li>
-                    <li><strong>APWorld Update</strong> Yacht Dice (Yahtzee)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> CrossCode</li>
-                    <li><strong>Game Mod Update</strong> Yacht Dice (Yahtzee)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Black Souls</li>
-                    <li><strong>Manual APWorld Update</strong> The Grinch</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Mega Man X</li>
                 </ul>
             ]]>
         </content>
