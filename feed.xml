@@ -10,7 +10,92 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-06-26T00:00:00-05:00</updated>
+    <updated>2024-06-29T00:00:00-05:00</updated>
+
+    <entry>
+        <title>June 28th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240628" rel="alternate" type="text/html" title="June 28th, 2024"/>
+        <updated>2024-06-29T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240628</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 28th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Diddy Kong Racing</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Tekken 4</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
+
+    <entry>
+        <title>June 27th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240627" rel="alternate" type="text/html" title="June 27th, 2024"/>
+        <updated>2024-06-28T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240627</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 27th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Against the Storm</li>
+                    <li><strong>APWorld Update</strong> Balatro</li>
+                    <li><strong>APWorld Update</strong> Civilization VI</li>
+                    <li><strong>APWorld Update</strong> Into the Breach</li>
+                    <li><strong>APWorld Update</strong> Jak and Daxter</li>
+                    <li><strong>APWorld Update</strong> Lunacid</li>
+                    <li><strong>APWorld Update</strong> Metroid Prime</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Against the Storm</li>
+                    <li><strong>Game Mod Update</strong> Balatro</li>
+                    <li><strong>Game Mod Update</strong> Into the Breach</li>
+                    <li><strong>Game Mod Update</strong> Lunacid</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Dexsanity</li>
+                    <li><strong>Manual APWorld Update</strong> Minesveeper</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Final Fantasy 5 Career Day</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
+
+    <entry>
+        <title>June 26th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240626" rel="alternate" type="text/html" title="June 26th, 2024"/>
+        <updated>2024-06-27T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240626</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 26th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Against the Storm</li>`
+                    <li><strong>APWorld Update</strong> Civilization VI</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Against the Storm</li>
+                    <li><strong>Game Mod Update</strong> Civilization VI</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Baldi's Basics Classic Remastered</li>
+                    <li><strong>New Manual APWorld</strong> Tale of Two Wastelands</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>June 25th, 2024</title>
@@ -1112,128 +1197,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> Spelunker</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 29th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240529" rel="alternate" type="text/html" title="May 29th, 2024"/>
-        <updated>2024-05-30T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240529</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 29th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> A Dance of Fire and Ice</li>
-                    <li><strong>Manual APWorld Update</strong> Kirby and the Forgotten Land</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New APWorld</strong> ANIMAL WELL</li>
-                    <li><strong>New APWorld</strong> Jak and Daxter</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Geometry Dash</li>
-                    <li><strong>New Manual APWorld</strong> SSX 3</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Tracker</strong> Soul Blazer</li>
-                    <li><strong>New Tracker</strong> Spelunker</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 28th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240528" rel="alternate" type="text/html" title="May 28th, 2024"/>
-        <updated>2024-05-29T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240528</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 28th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Manual</li>
-                    <li><strong>APWorld Update</strong> Mega Man X</li>
-                    <li><strong>APWorld Update</strong> Mega Man X3</li>
-                    <li><strong>APWorld Update</strong> OpenRCT2</li>
-                    <li><strong>APWorld Update</strong> Risk of Rain</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Hatsune Miku: Project DIVA Mega Mix+</li>
-                    <li><strong>Game Mod Update</strong> OpenRCT2</li>
-                    <li><strong>Game Mod Update</strong> Risk of Rain</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Bowser's Fury</li>
-                    <li><strong>Manual APWorld Update</strong> Castle Crashers</li>
-                    <li><strong>Manual APWorld Update</strong> CastleMinerZ</li>
-                    <li><strong>Manual APWorld Update</strong> Guitar Hero 3: Legends of Rock</li>
-                    <li><strong>Manual APWorld Update</strong> Resident Evil 5 Gold Edition</li>
-                    <li><strong>Manual APWorld Update</strong> Skyrim Special Edition: Legacy of the Dragonborn</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Castlevania Symphony of the Night (Sega Saturn Maria Mode)</li>
-                    <li><strong>New Manual APWorld</strong> Polyrhythm Mania</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 27th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240527" rel="alternate" type="text/html" title="May 27th, 2024"/>
-        <updated>2024-05-28T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240527</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 27th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Hades</li>
-                    <li><strong>APWorld Update</strong> Hatsune Miku: Project DIVA Mega Mix+</li>
-                    <li><strong>APWorld Update</strong> Scooby-Doo! Night of 100 Frights</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Beta APWorld Update</strong> The Witness</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Beta Game Mod Update</strong> The Witness</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Blashphemous</li>
-                    <li><strong>Game Mod Update</strong> Hades</li>
-                    <li><strong>Game Mod Update</strong> Muse Dash</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Black Souls</li>
-                    <li><strong>Manual APWorld Update</strong> Genshin Impact</li>
-                    <li><strong>Manual APWorld Update</strong> Resident Evil 5 Gold Edition</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Kirby Super Star (Talcerase's)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Prerelease APWorld Update</strong> Muse Dash</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Yu-Gi-Oh! Forbidden Memories</li>
                 </ul>
             ]]>
         </content>
