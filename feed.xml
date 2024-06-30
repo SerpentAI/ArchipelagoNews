@@ -10,7 +10,33 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-06-29T00:00:00-05:00</updated>
+    <updated>2024-06-30T00:00:00-05:00</updated>
+
+    <entry>
+        <title>June 29th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240629" rel="alternate" type="text/html" title="June 29th, 2024"/>
+        <updated>2024-06-30T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240629</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 29th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> ANIMAL WELL</li>
+                    <li><strong>APWorld Update</strong> Civilization VI</li>
+                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Against the Storm</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Tale of Two Wastelands</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>June 28th, 2024</title>
@@ -1160,43 +1186,6 @@
                 <ul>
                     <li><strong>Tracker Update</strong> Mega Man X</li>
                     <li><strong>Tracker Update</strong> Mega Man X3</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 30th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240530" rel="alternate" type="text/html" title="May 30th, 2024"/>
-        <updated>2024-05-31T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240530</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 30th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Bloons TD 6</li>
-                    <li><strong>APWorld Update</strong> Hatsune Miku: Project DIVA Mega Mix+</li>
-                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
-                    <li><strong>APWorld Update</strong> Risk of Rain</li>
-                    <li><strong>APWorld Update</strong> Super Metroid Map Rando</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Bloons TD 6</li>
-                    <li><strong>Game Mod Update</strong> Risk of Rain</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Manual Rhythm Game Randomizer</li>
-                    <li><strong>Manual APWorld Update</strong> Splatoon 3 - Alterna</li>
-                    <li><strong>Manual APWorld Update</strong> Spyro the Dragon</li>
-                    <li><strong>Manual APWorld Update</strong> Super Mario Odyssey - Festival%</li>
-                    <li><strong>Manual APWorld Update</strong> Wizard101</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Spelunker</li>
                 </ul>
             ]]>
         </content>
