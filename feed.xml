@@ -10,7 +10,75 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-06-30T00:00:00-05:00</updated>
+    <updated>2024-07-02T00:00:00-05:00</updated>
+
+    <entry>
+        <title>July 1st, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240701" rel="alternate" type="text/html" title="July 1st, 2024"/>
+        <updated>2024-07-02T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240701</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for July 1st, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>AP RELEASE</strong> 0.5.0</li>
+                </ul>
+
+                <ul>
+                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
+                    <li><strong>APWorld Update</strong> Subversion (Super Metroid Hack)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> The Witness</li>
+                    <li><strong>Game Mod Update</strong> TUNIC</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Diddy Kong Racing</li>
+                    <li><strong>Manual APWorld Update</strong> Phasmophobia</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
+
+    <entry>
+        <title>June 30th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240630" rel="alternate" type="text/html" title="June 30th, 2024"/>
+        <updated>2024-07-01T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240630</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for June 30th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Against the Storm</li>
+                    <li><strong>APWorld Update</strong> ANIMAL WELL</li>
+                    <li><strong>APWorld Update</strong> Into the Breach</li>
+                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Into the Breach</li>
+                    <li><strong>Game Mod Update</strong> Lethal Company</li>
+                    <li><strong>Game Mod Update</strong> Timespinner</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Diddy Kong Racing</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Call of Duty: Black Ops 3 Zombies</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Tracker</strong> Cave Story</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>June 29th, 2024</title>
@@ -1074,118 +1142,6 @@
                 <ul>
                     <li><strong>Tracker Update</strong> Final Fantasy 5 Career Day</li>
                     <li><strong>Tracker Update</strong> Pokemon Crystal</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>June 1st, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240601" rel="alternate" type="text/html" title="June 1st, 2024"/>
-        <updated>2024-06-02T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240601</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for June 1st, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>AP Release Candidate</strong> 0.5.0 RC1</li>
-                </ul>
-
-                <ul>
-                    <li><strong>APWorld Update</strong> Civilization VI</li>
-                    <li><strong>APWorld Update</strong> Jak and Daxter</li>
-                    <li><strong>APWorld Update</strong> Pokemon Crystal</li>
-                    <li><strong>APWorld Update</strong> Rabi-Ribi</li>
-                    <li><strong>APWorld Update</strong> Soul Blazer</li>
-                    <li><strong>APWorld Update</strong> Subversion (Super Metroid Hack)</li>
-                    <li><strong>APWorld Update</strong> Super Junkoid (Super Metroid Hack)</li>
-                    <li><strong>APWorld Update</strong> ULTRAKILL</li>
-                    <li><strong>APWorld Update</strong> Yacht Dice (Yahtzee)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Core Update Merged</strong> Remove Universally Unique ID Requirements (Per-Game Data Packages)</li>
-                    <li><strong>Core Update Merged</strong> Webhost: Sphere Tracker</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Civilization VI</li>
-                    <li><strong>Game Mod Update</strong> Hammerwatch </li>
-                    <li><strong>Game Mod Update</strong> Yacht Dice (Yahtzee)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Kirby Super Star Ultra</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Beta Game Mod</strong> Muse Dash</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Minecraft - Super Hostile Adventure Maps</li>
-                    <li><strong>New Manual APWorld</strong> Minecraft Suffering</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Pokemon Crystal</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>May 31st, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240531" rel="alternate" type="text/html" title="May 31st, 2024"/>
-        <updated>2024-06-01T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240531</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for May 31st, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Into the Breach</li>
-                    <li><strong>APWorld Update</strong> Kingdom Hearts RE: Chain of Memories</li>
-                    <li><strong>APWorld Update</strong> Outer Wilds</li>
-                    <li><strong>APWorld Update</strong> Star Wars: Episode I Racer</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Beta APWorld Update</strong> The Witness</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Beta Game Mod Update</strong> The Witness</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> DLC Quest</li>
-                    <li><strong>Game Mod Update</strong> Into the Breach</li>
-                    <li><strong>Game Mod Update</strong> Outer Wilds</li>
-                    <li><strong>Game Mod Update</strong> Star Wars: Episode I Racer</li>
-                    <li><strong>Game Mod Update</strong> The Messenger</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Dexsanity</li>
-                    <li><strong>Manual APWorld Update</strong> Fighting Game Builder</li>
-                    <li><strong>Manual APWorld Update</strong> Putt-Putt</li>
-                    <li><strong>Manual APWorld Update</strong> Blast Corps</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Kirby Super Star Ultra</li>
-                    <li><strong>New Manual APWorld</strong> Magic: The Gathering (Arena / MTGO)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Tracker</strong> Mega Man X3</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Mega Man X</li>
-                    <li><strong>Tracker Update</strong> Mega Man X3</li>
                 </ul>
             ]]>
         </content>
