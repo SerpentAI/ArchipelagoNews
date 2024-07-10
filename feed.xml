@@ -10,7 +10,49 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-07-09T00:00:00-05:00</updated>
+    <updated>2024-07-10T00:00:00-05:00</updated>
+
+    <entry>
+        <title>July 9th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240709" rel="alternate" type="text/html" title="July 9th, 2024"/>
+        <updated>2024-07-10T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240709</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for July 9th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Hades</li>
+                    <li><strong>APWorld Update</strong> Metroid: Zero Mission</li>
+                    <li><strong>APWorld Update</strong> Risk of Rain</li>
+                    <li><strong>APWorld Update</strong> The Guardian Legend</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Hades</li>
+                    <li><strong>Game Mod Update</strong> Risk of Rain</li>
+                    <li><strong>Game Mod Update</strong> TUNIC</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Adventure Forward 2 Restored</li>
+                    <li><strong>Manual APWorld Update</strong> Decked Out 2 (Minecraft Map)</li>
+                    <li><strong>Manual APWorld Update</strong> Epistory - Typing Chronicles</li>
+                    <li><strong>Manual APWorld Update</strong> LEGO Batman: The Videogame</li>
+                    <li><strong>Manual APWorld Update</strong> Super Mario Odyssey</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> IKEA: The Co-Worker (Roblox)</li>
+                    <li><strong>New Manual APWorld</strong> Team Fortress 2</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Psychonauts</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>July 8th, 2024</title>
@@ -1103,46 +1145,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> Psychonauts</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>June 9th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240609" rel="alternate" type="text/html" title="June 9th, 2024"/>
-        <updated>2024-06-10T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240609</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for June 9th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
-                    <li><strong>APWorld Update</strong> Cave Story</li>
-                    <li><strong>APWorld Update</strong> Final Fantasy XII: Open World</li>
-                    <li><strong>APWorld Update</strong> Gauntlet Legends</li>
-                    <li><strong>APWorld Update</strong> Hatsune Miku: Project DIVA Mega Mix+</li>
-                    <li><strong>APWorld Update</strong> Outer Wilds</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Final Fantasy XII: Open World</li>
-                    <li><strong>Game Mod Update</strong> Outer Wilds</li>
-                    <li><strong>Game Mod Update</strong> Timespinner</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Mario Kart Wii</li>
-                    <li><strong>Manual APWorld Update</strong> Sky: Children of the Light</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Farmcraft: The Minecraft Farming Manual</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Soul Blazer</li>
                 </ul>
             ]]>
         </content>
