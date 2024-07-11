@@ -10,7 +10,50 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-07-10T00:00:00-05:00</updated>
+    <updated>2024-07-11T00:00:00-05:00</updated>
+
+    <entry>
+        <title>July 10th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240710" rel="alternate" type="text/html" title="July 10th, 2024"/>
+        <updated>2024-07-11T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240710</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for July 10th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> MetroCUBEvania</li>
+                    <li><strong>APWorld Update</strong> Paper Mario 64</li>
+                    <li><strong>APWorld Update</strong> Rusted Moss</li>
+                    <li><strong>APWorld Update</strong> Sea of Thieves</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> MetroCUBEvania</li>
+                    <li><strong>Game Mod Update</strong> Rusted Moss</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Fire Emblem Engage</li>
+                    <li><strong>Manual APWorld Update</strong> Manual Rhythm Game Randomizer</li>
+                    <li><strong>Manual APWorld Update</strong> Minecraft Suffering</li>
+                    <li><strong>Manual APWorld Update</strong> Paper Mario: The Thousand-Year Door</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Luigi's Mansion: Dark Moon</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Tracker</strong> Ocarina of Time</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Pokemon Red and Blue</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>July 9th, 2024</title>
@@ -1110,41 +1153,6 @@
 
                 <ul>
                     <li><strong>New Manual APWorld</strong> The Beatles: Rock Band</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>June 10th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240610" rel="alternate" type="text/html" title="June 10th, 2024"/>
-        <updated>2024-06-11T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240610</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for June 10th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Final Fantasy 6 Worlds Collide</li>
-                    <li><strong>APWorld Update</strong> Psychonauts</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Psychonauts</li>
-                    <li><strong>Game Mod Update</strong> ULTRAKILL</li>
-                    <li><strong>Game Mod Update</strong> Yooka-Laylee</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> The Grinch</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> The Legend of Zelda - Tears of the Kingdom</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Psychonauts</li>
                 </ul>
             ]]>
         </content>
