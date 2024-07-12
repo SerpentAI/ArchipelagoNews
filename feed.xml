@@ -10,7 +10,42 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-07-11T00:00:00-05:00</updated>
+    <updated>2024-07-12T00:00:00-05:00</updated>
+
+    <entry>
+        <title>July 11th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240711" rel="alternate" type="text/html" title="July 11th, 2024"/>
+        <updated>2024-07-12T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240711</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for July 11th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Balatro</li>
+                    <li><strong>APWorld Update</strong> Wargroove 2</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Balatro</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Update Merged</strong> Zillion <em>more rooms added to map_gen option</em></li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Manual Rhythm Game Randomizer</li>
+                    <li><strong>Manual APWorld Update</strong> Mario and Luigi: Bowser's Inside Story</li>
+                    <li><strong>Manual APWorld Update</strong> The Grinch</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> A Short Hike</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>July 10th, 2024</title>
@@ -1129,30 +1164,6 @@
                 <ul>
                     <li><strong>Tracker Update</strong> Mega Man X3</li>
                     <li><strong>Tracker Update</strong> Pokemon Red and Blue</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>June 11th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240611" rel="alternate" type="text/html" title="June 11th, 2024"/>
-        <updated>2024-06-12T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240611</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for June 11th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong>Banjo-Tooie</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Outer Wilds</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> The Beatles: Rock Band</li>
                 </ul>
             ]]>
         </content>
