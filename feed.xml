@@ -10,7 +10,43 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-07-12T00:00:00-05:00</updated>
+    <updated>2024-07-13T00:00:00-05:00</updated>
+
+    <entry>
+        <title>July 12th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240712" rel="alternate" type="text/html" title="July 12th, 2024"/>
+        <updated>2024-07-13T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240712</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for July 12th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
+                    <li><strong>APWorld Update</strong> Pokemon FireRed and LeafGreen</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Bomb Rush Cyberfunk</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Kirby Super Star Ultra</li>
+                    <li><strong>Manual APWorld Update</strong> Team Fortress 2 - Mann vs. Machine</li>
+                    <li><strong>Manual APWorld Update</strong> Tower Unite</li>
+                    <li><strong>Manual APWorld Update</strong> TrackMania (2020)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New APWorld</strong> Kingdom Hearts 358/2 Days</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Lingo</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>July 11th, 2024</title>
@@ -1132,38 +1168,6 @@
                 <ul>
                     <li><strong>Tracker Update</strong> The Wind Waker</li>
                     <li><strong>Tracker Update</strong> Yoshi's Island</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>June 12th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240612" rel="alternate" type="text/html" title="June 12th, 2024"/>
-        <updated>2024-06-13T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240612</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for June 12th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> ANIMAL WELL</li>
-                    <li><strong>APWorld Update</strong> Cave Story</li>
-                    <li><strong>APWorld Update</strong> Universal Tracker</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Beta APWorld Update</strong> The Witness</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Minecraft - Decked Out 2</li>
-                    <li><strong>Manual APWorld Update</strong> Outer Wilds</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Mega Man X3</li>
-                    <li><strong>Tracker Update</strong> Pokemon Red and Blue</li>
                 </ul>
             ]]>
         </content>
