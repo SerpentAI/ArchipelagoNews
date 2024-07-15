@@ -10,7 +10,42 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-07-14T00:00:00-05:00</updated>
+    <updated>2024-07-15T00:00:00-05:00</updated>
+
+    <entry>
+        <title>July 14th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240714" rel="alternate" type="text/html" title="July 14th, 2024"/>
+        <updated>2024-07-15T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240714</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for July 14th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> FNAF World</li>
+                    <li><strong>APWorld Update</strong> Gauntlet Legends</li>
+                    <li><strong>APWorld Update</strong> Metroid Prime</li>
+                    <li><strong>APWorld Update</strong> Metroid: Zero Mission</li>
+                    <li><strong>APWorld Update</strong> Outer Wilds</li>
+                    <li><strong>APWorld Update</strong> Super Mario Land 2</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Hollow Knight</li>
+                    <li><strong>Game Mod Update</strong> Outer Wilds</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Bejeweled 3</li>
+                    <li><strong>Manual APWorld Update</strong> Celeste</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Tracker</strong> Mario Kart 64</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>July 13th, 2024</title>
@@ -1141,88 +1176,6 @@
 
                 <ul>
                     <li><strong>New Tracker</strong> Gauntlet Legends</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>June 14th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240614" rel="alternate" type="text/html" title="June 14th, 2024"/>
-        <updated>2024-06-15T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240614</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for June 14th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Gauntlet Legends</li>
-                    <li><strong>APWorld Update</strong> Hammerwatch</li>
-                    <li><strong>APWorld Update</strong> Mega Man X</li>
-                    <li><strong>APWorld Update</strong> Mega Man X3</li>
-                    <li><strong>APWorld Update</strong> Paper Mario 64</li>
-                    <li><strong>APWorld Update</strong> Yacht Dice</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Pokemon Snap</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New APWorld</strong> Mega Man 3</li>
-                    <li><strong>New APWorld</strong> Rusted Moss</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Diddy Kong Racing</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Tracker</strong> Mega Man 2</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Mega Man X</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>June 13th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240613" rel="alternate" type="text/html" title="June 13th, 2024"/>
-        <updated>2024-06-14T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240613</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for June 13th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Hatsune Miku: Project DIVA Mega Mix+</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Arctic Eggs</li>
-                    <li><strong>Manual APWorld Update</strong> CTR: Crash Team Racing</li>
-                    <li><strong>Manual APWorld Update</strong> Minecraft Suffering</li>
-                    <li><strong>Manual APWorld Update</strong> Popup Dungeon</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New APWorld</strong> Diddy Kong Racing</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Killing Floor 2</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Tracker</strong> Banjo-Tooie</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> The Wind Waker</li>
-                    <li><strong>Tracker Update</strong> Yoshi's Island</li>
                 </ul>
             ]]>
         </content>
