@@ -10,7 +10,40 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-07-17T00:00:00-05:00</updated>
+    <updated>2024-07-18T00:00:00-05:00</updated>
+
+    <entry>
+        <title>July 17th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240717" rel="alternate" type="text/html" title="July 17th, 2024"/>
+        <updated>2024-07-18T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240717</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for July 17th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Gauntlet Legends</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Timespinner</li>
+                </ul>
+                
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> CTR: Crash Team Racing</li>
+                    <li><strong>Manual APWorld Update</strong> Wobbly Life</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Beta APWorld</strong> Aquaria</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Beta Game Mod</strong> Aquaria</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>July 16th, 2024</title>
@@ -1083,65 +1116,6 @@
                 <ul>
                     <li><strong>Tracker Update</strong> Banjo-Tooie</li>
                     <li><strong>Tracker Update</strong> Super Mario 64</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>June 17th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240617" rel="alternate" type="text/html" title="June 17th, 2024"/>
-        <updated>2024-06-18T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240617</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for June 17th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> ANIMAL WELL</li>
-                    <li><strong>APWorld Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>APWorld Update</strong> Hatsune Miku: Project DIVA Mega Mix+</li>
-                    <li><strong>APWorld Update</strong> Into the Breach</li>
-                    <li><strong>APWorld Update</strong> Metroid Prime</li>
-                    <li><strong>APWorld Update</strong> Old School RuneScape</li>
-                    <li><strong>APWorld Update</strong> Psychonauts</li>
-                    <li><strong>APWorld Update</strong> Wario Land 1</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Beta APWorld Update</strong> Terraria</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Beta Game Mod Update</strong> Terraria</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>Game Mod Update</strong> Hatsune Miku: Project DIVA Mega Mix+</li>
-                    <li><strong>Game Mod Update</strong> Into the Breach</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Update</strong> ChecksFinder</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Powerwash Simulator</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New APWorld</strong> Air Delivery</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Tracker</strong> ANIMAL WELL</li>
-                    <li><strong>New Tracker</strong> Super Mario 64</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> DLC Quest</li>
-                    <li><strong>Tracker Update</strong> Pokemon Red and Blue</li>
                 </ul>
             ]]>
         </content>
