@@ -10,15 +10,52 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-07-22T00:00:00-05:00</updated>
+    <updated>2024-07-23T00:00:00-05:00</updated>
 
     <entry>
-        <title>July 21th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240721" rel="alternate" type="text/html" title="July 21th, 2024"/>
+        <title>July 22nd, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240722" rel="alternate" type="text/html" title="July 22nd, 2024"/>
+        <updated>2024-07-23T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240722</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for July 22nd, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> EarthBound</li>
+                    <li><strong>APWorld Update</strong> Gauntlet Legends</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> A Short Hike</li>
+                    <li><strong>Game Mod Update</strong> Hatsune Miku: Project DIVA Mega Mix+</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Final Fantasy XIV</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> MultiVersus (Rifts)</li>
+                    <li><strong>New Manual APWorld</strong> Stray</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Banjo-Tooie</li>
+                    <li><strong>Tracker Update</strong> EarthBound</li>
+                    <li><strong>Tracker Update</strong> Ittle Dew 2+</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
+
+    <entry>
+        <title>July 21st, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240721" rel="alternate" type="text/html" title="July 21st, 2024"/>
         <updated>2024-07-22T00:00:00-05:00</updated>
         <id>https://multiworld.news/index.html#D20240721</id>
         <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for July 21th, 2024</summary>
+        <summary>Archipelago News for July 21st, 2024</summary>
         <content type="html">
             <![CDATA[
                 <ul>
@@ -1091,44 +1128,6 @@
                 <ul>
                     <li><strong>Tracker Update</strong> An Untitled Story</li>
                     <li><strong>Tracker Update</strong> DOOM II</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>June 22nd, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240622" rel="alternate" type="text/html" title="June 22nd, 2024"/>
-        <updated>2024-06-23T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240622</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for June 22nd, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Astalon: Tears of the Earth</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Astalon: Tears of the Earth</li>
-                    <li><strong>Game Mod Update</strong> TUNIC</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Adventure Forward 2 Restored</li>
-                    <li><strong>Manual APWorld Update</strong> Deep Rock Galactic</li>
-                    <li><strong>Manual APWorld Update</strong> Pokemon Legends: Arceus</li>
-                    <li><strong>Manual APWorld Update</strong> Splatoon 3</li>
-                    <li><strong>Manual APWorld Update</strong> The Grinch</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Star Wars Battlefront 2</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Banjo-Tooie</li>
-                    <li><strong>Tracker Update</strong> Soul Blazer</li>
                 </ul>
             ]]>
         </content>
