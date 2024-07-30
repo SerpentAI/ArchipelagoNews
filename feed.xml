@@ -10,7 +10,84 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-07-28T00:00:00-05:00</updated>
+    <updated>2024-07-30T00:00:00-05:00</updated>
+
+    <entry>
+        <title>July 29th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240729" rel="alternate" type="text/html" title="July 29th, 2024"/>
+        <updated>2024-07-30T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240729</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for July 29th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Kingdom Hearts Birth by Sleep</li>
+                    <li><strong>APWorld Update</strong> Lunacid</li>
+                    <li><strong>APWorld Update</strong> Mario Kart 64</li>
+                    <li><strong>APWorld Update</strong> Old School RuneScape</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Blasphemous</li>
+                    <li><strong>Game Mod Update</strong> Lunacid</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Mario and Luigi: Partners in Time</li>
+                    <li><strong>Manual APWorld Update</strong> Resident Evil 5 Gold Edition</li>
+                    <li><strong>Manual APWorld Update</strong> The Grinch</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
+
+    <entry>
+        <title>July 28th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240728" rel="alternate" type="text/html" title="July 28th, 2024"/>
+        <updated>2024-07-29T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240728</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for July 28th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Metroid Prime</li>
+                    <li><strong>APWorld Update</strong> Sonic Adventure DX</li>
+                    <li><strong>APWorld Update</strong> Wario Land 4</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta APWorld Update</strong> Dark Souls III</li>
+                    <li><strong>Beta APWorld Update</strong> Stardew Valley</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta Game Mod Update</strong> Dark Souls III</li>
+                    <li><strong>Beta Game Mod Update</strong> Stardew Valley</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Sonic Adventure DX</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Inscryption</li>
+                    <li><strong>Manual APWorld Update</strong> Mario and Luigi: Bowser's Inside Story</li>
+                    <li><strong>Manual APWorld Update</strong> MultiVersus (Rifts)</li>
+                    <li><strong>Manual APWorld Update</strong> Super Mario Odyssey</li>
+                    <li><strong>Manual APWorld Update</strong> Super Street Fighter II Turbo</li>
+                    <li><strong>Manual APWorld Update</strong> The Grinch</li>
+                    <li><strong>Manual APWorld Update</strong> The SpongeBob SquarePants Movie</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Bully: Scholarship Edition</li>
+                    <li><strong>New Manual APWorld</strong> The SpongeBob SquarePants Movie</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>July 27th, 2024</title>
@@ -1127,52 +1204,6 @@
 
                 <ul>
                     <li><strong>New Tracker</strong> Cave Story</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>June 29th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240629" rel="alternate" type="text/html" title="June 29th, 2024"/>
-        <updated>2024-06-30T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240629</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for June 29th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> ANIMAL WELL</li>
-                    <li><strong>APWorld Update</strong> Civilization VI</li>
-                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Against the Storm</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Tale of Two Wastelands</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>June 28th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240628" rel="alternate" type="text/html" title="June 28th, 2024"/>
-        <updated>2024-06-29T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240628</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for June 28th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Diddy Kong Racing</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Tekken 4</li>
                 </ul>
             ]]>
         </content>
