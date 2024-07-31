@@ -10,7 +10,65 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-07-30T00:00:00-05:00</updated>
+    <updated>2024-07-31T00:00:00-05:00</updated>
+
+    <entry>
+        <title>July 30th, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240730" rel="alternate" type="text/html" title="July 30th, 2024"/>
+        <updated>2024-07-31T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240730</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for July 30th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Anodyne</li>
+                    <li><strong>APWorld Update</strong> Castlevania: Symphony of the Night</li>
+                    <li><strong>APWorld Update</strong> Diddy Kong Racing</li>
+                    <li><strong>APWorld Update</strong> Final Fantasy 6 Worlds Collide</li>
+                    <li><strong>APWorld Update</strong> Into the Breach</li>
+                    <li><strong>APWorld Update</strong> Kingdom Hearts Birth by Sleep</li>
+                    <li><strong>APWorld Update</strong> Tyrian</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta APWorld Update</strong> Stardew Valley</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta Game Mod Update</strong> Stardew Valley</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Anodyne</li>
+                    <li><strong>Game Mod Update</strong> Into the Breach</li>
+                    <li><strong>Game Mod Update</strong> Lil Gator Game</li>
+                    <li><strong>Game Mod Update</strong> Tyrian</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Library of Ruina</li>
+                    <li><strong>Manual APWorld Update</strong> Luigi's Mansion: Dark Moon</li>
+                    <li><strong>Manual APWorld Update</strong> Super Mario Galaxy</li>
+                    <li><strong>Manual APWorld Update</strong> Super Mario Galaxy 2</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Thrillville: Off the Rails</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Tracker</strong> Kingdom Hearts Birth by Sleep</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Anodyne</li>
+                    <li><strong>Tracker Update</strong> Banjo-Tooie</li>
+                    <li><strong>Tracker Update</strong> Diddy Kong Racing</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>July 29th, 2024</title>
@@ -1167,43 +1225,6 @@
                 <ul>
                     <li><strong>Manual APWorld Update</strong> Diddy Kong Racing</li>
                     <li><strong>Manual APWorld Update</strong> Phasmophobia</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>June 30th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240630" rel="alternate" type="text/html" title="June 30th, 2024"/>
-        <updated>2024-07-01T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240630</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for June 30th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Against the Storm</li>
-                    <li><strong>APWorld Update</strong> ANIMAL WELL</li>
-                    <li><strong>APWorld Update</strong> Into the Breach</li>
-                    <li><strong>APWorld Update</strong> Kingdom Hearts 1 Final Mix</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Into the Breach</li>
-                    <li><strong>Game Mod Update</strong> Lethal Company</li>
-                    <li><strong>Game Mod Update</strong> Timespinner</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Diddy Kong Racing</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Call of Duty: Black Ops 3 Zombies</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Tracker</strong> Cave Story</li>
                 </ul>
             ]]>
         </content>
