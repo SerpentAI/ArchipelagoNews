@@ -10,7 +10,56 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-08-07T00:00:00-05:00</updated>
+    <updated>2024-08-08T00:00:00-05:00</updated>
+
+    <entry>
+        <title>August 7, 2024</title>
+        <link href="https://multiworld.news/index.html#D20240807" rel="alternate" type="text/html" title="August 7, 2024"/>
+        <updated>2024-08-08T00:00:00-05:00</updated>
+        <id>https://multiworld.news/index.html#D20240807</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for August 7, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Cavern of Dreams</li>
+                    <li><strong>APWorld Update</strong> Mega Man X</li>
+                    <li><strong>APWorld Update</strong> Mega Man X3</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta APWorld Update</strong> Dark Souls III</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta Game Mod Update</strong> Dark Souls III</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Cavern of Dreams</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Metal Gear Rising: Revengeance</li>
+                    <li><strong>Manual APWorld Update</strong> myPOPGOES</li>
+                    <li><strong>Manual APWorld Update</strong> Ring Fit Adventure</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New APWorld</strong> Mega Man X2</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> The Henry Stickmin Collection</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Anodyne</li>
+                    <li><strong>Tracker Update</strong> The Wind Waker</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>August 6, 2024</title>
@@ -1199,45 +1248,6 @@
 
                 <ul>
                     <li><strong>Tracker Update</strong> Psychonauts</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>July 8th, 2024</title>
-        <link href="https://multiworld.news/index.html#D20240708" rel="alternate" type="text/html" title="July 8th, 2024"/>
-        <updated>2024-07-09T00:00:00-05:00</updated>
-        <id>https://multiworld.news/index.html#D20240708</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for July 8th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> ANIMAL WELL</li>
-                    <li><strong>APWorld Update</strong> Diddy Kong Racing</li>
-                    <li><strong>APWorld Update</strong> Gauntlet Legends</li>
-                    <li><strong>APWorld Update</strong> Metroid Prime</li>
-                    <li><strong>APWorld Update</strong> Ocarina of Time but it's just Master Quest Water Temple</li>
-                    <li><strong>APWorld Update</strong> Pokemon FireRed and LeafGreen</li>
-                    <li><strong>APWorld Update</strong> Resident Evil 3 Remake</li>
-                    <li><strong>APWorld Update</strong> Sonic Adventure DX</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Aquaria</li>
-                    <li><strong>Game Mod Update</strong> Resident Evil 3 Remake</li>
-                    <li><strong>Game Mod Update</strong> Sonic Adventure DX</li>
-                    <li><strong>Game Mod Update</strong> Subnautica</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Paper Mario: The Thousand-Year Door</li>
-                    <li><strong>Manual APWorld Update</strong> Streets of Rogue</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Tracker</strong> Metroid: Zero Mission</li>
                 </ul>
             ]]>
         </content>
